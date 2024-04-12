@@ -9,6 +9,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text("test");
+    return Text("로그인 기능 생성");
   }
 }
